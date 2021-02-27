@@ -3997,9 +3997,9 @@ input[type=button].btn-block {
 }
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
-  margin-right: 1rem;
+  padding-top: 0.3525rem;
+  padding-bottom: 0.3525rem;
+  margin-right: 2rem;
   font-size: 1.25rem;
   line-height: inherit;
   white-space: nowrap;
@@ -4037,7 +4037,7 @@ input[type=button].btn-block {
 }
 
 .navbar-toggler {
-  padding: 0.25rem 0.75rem;
+  padding: 0.45rem 0.95rem;
   font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
@@ -10140,7 +10140,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/back_pg.jpeg");
+  background-image: url("../assets/img/domoprueba.jpeg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10505,7 +10505,7 @@ section#contact form#contactForm :-ms-input-placeholder {
 }
 
 #imagen_logo {
-  height: 5rem;
-  width: 10rem;
+  height: 20px;
+  width: 100px;
   opacity: 0.6;
 }
